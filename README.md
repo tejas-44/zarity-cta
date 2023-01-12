@@ -1,16 +1,13 @@
-# zarity_task
+# zarity_cta
 
-A new Flutter project.
+#Hosted the web application [https://zarity-flutter.web.app/#/](here)
 
-## Getting Started
+Created a flutter project which includes Gridview and Listview. 
 
-This project is a starting point for a Flutter application.
+Connected with firebase for performing read operations. 
 
-A few resources to get you started if this is your first Flutter project:
+The cta function prints out in the console
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
