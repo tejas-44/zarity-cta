@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068632760738",
+    "project_id": "zarity-flutter",
+    "storage_bucket": "zarity-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068632760738:android:c0b78c339a5ca9c6e6d2fb",
+        "android_client_info": {
+          "package_name": "com.example.zarity_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068632760738-peq00nmk2ohs0q8v1klprfvmrc4rej98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsg71Q1K85E1yu5gw4S-rAUAMJOGx6o7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068632760738-peq00nmk2ohs0q8v1klprfvmrc4rej98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
