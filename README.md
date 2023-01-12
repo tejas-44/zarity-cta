@@ -1,4 +1,4 @@
-# Hosted the web application [https://zarity-flutter.web.app/#/] (here)
+# Hosted the web application https://zarity-flutter.web.app/#/
 
 Created a flutter project which includes Gridview and Listview. 
 
