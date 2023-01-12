@@ -1,6 +1,4 @@
-# zarity_cta
-
-#Hosted the web application [https://zarity-flutter.web.app/#/](here)
+#Hosted the web application [https://zarity-flutter.web.app/#/] (here)
 
 Created a flutter project which includes Gridview and Listview. 
 
